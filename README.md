@@ -10,4 +10,5 @@ Just call Hello Gabbar and it will respond to you..
 Gabbar can talk in 2 languages for now ( Hindi and English) and in future there are lots of features that are to be added.
 So just order gabbar to do a task it will do.
 
+Since , it was made totaly in purpose to serve me, names and functionality can be changed accordingly by users.
 The gabbar is made totaly using python and its libarary.
